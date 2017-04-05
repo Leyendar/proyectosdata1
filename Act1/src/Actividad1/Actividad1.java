@@ -5,6 +5,7 @@ import java.util.Arrays;
 import java.util.Random;
 
 public class Actividad1 {
+	//*la madre que te pario
 
 	public static void numerosTodos(int[] numerosEnteros){
 		ArrayList<Integer> numerosParesImpares=new ArrayList<Integer>();
